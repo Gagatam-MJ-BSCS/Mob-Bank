@@ -41,12 +41,14 @@ View all the transactions you've made in the History and view the send or reques
 ![log_history](https://user-images.githubusercontent.com/109670675/180403969-4ec86cfe-1852-430e-89e6-3f62617b225c.JPG)
 ![notif](https://user-images.githubusercontent.com/109670675/180403947-28e28312-ba53-4fd7-8ffd-0bf5ee19fb6e.JPG)
 
+# Demo link
+https://youtu.be/G0CMUdOoWNQ
+
 # Researcher/Developer
 Mark James G. Gagatam, 
 Meryl Nicdao, 
 Joshua Carandang, 
 Jhonmar Abadillos
-
 
 # Adviser
 Prof. Jefferson A. Costales
