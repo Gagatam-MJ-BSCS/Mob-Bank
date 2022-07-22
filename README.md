@@ -15,7 +15,7 @@ Every cashed in of the user a fixed amount will be put in the Split Saving Balan
 ![ssgeneral](https://user-images.githubusercontent.com/109670675/180359247-42d732ab-3ba4-4d85-b4b7-b5ef4fafe095.JPG)
 ![sssetting](https://user-images.githubusercontent.com/109670675/180359276-3c845ddd-dca9-458a-a517-e4e1980f0182.JPG)
 
-# Cash--In & Cash-Out
+# Cash-In & Cash-Out
 Input amount in the cash-in will added in the balance while the amount input in the cash-out will deducted in the balance. 
 ![cashin](https://user-images.githubusercontent.com/109670675/180403084-984c3320-d666-4d60-931d-61ef7164ed61.JPG)
 ![cashout](https://user-images.githubusercontent.com/109670675/180403037-13657c52-ef20-4f50-91bc-604cbb687a76.JPG)
