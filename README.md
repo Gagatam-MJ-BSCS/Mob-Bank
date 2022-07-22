@@ -42,9 +42,9 @@ View all the transactions you've made in the History and view the send or reques
 ![notif](https://user-images.githubusercontent.com/109670675/180403947-28e28312-ba53-4fd7-8ffd-0bf5ee19fb6e.JPG)
 
 # Researcher/Developer
-Mark James G. Gagatam
-Meryl Nicdao
-Joshua Carandang
+Mark James G. Gagatam, 
+Meryl Nicdao, 
+Joshua Carandang, 
 Jhonmar Abadillos
 
 
